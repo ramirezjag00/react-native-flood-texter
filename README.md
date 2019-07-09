@@ -13,6 +13,6 @@
 - add necessary `options`
 - add history
 - add safeAreaView
-- improve error handling
+- improve error handling and states (loading, success, failed)
 - add contacts to choose from
   
