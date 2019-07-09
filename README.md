@@ -1,11 +1,10 @@
 # react-native-flood-texter
 
 ### DEFINITION
-> A mobile app that enables a user to send an sms multiple times
+> An Android mobile app that enables a user to send an sms multiple times (iOS doesn't have a background send-sms)
 
 #### To do:
 - improve UI
-- fix iOS
 - add auto-focus on next textInput
 - show number of currentPosition while loading
 - add splashscreen
