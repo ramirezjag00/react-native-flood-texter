@@ -1,0 +1,5 @@
+rootProject.name = 'floodTexter'
+
+include ':app'
+include ':react-native-sms-android'
+project(':react-native-sms-android').projectDir = new File(settingsDir, '../node_modules/react-native-sms-android/android')
